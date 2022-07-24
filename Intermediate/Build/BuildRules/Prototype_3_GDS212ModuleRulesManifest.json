@@ -1,0 +1,16 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Engine Folder\\Unreal Projects\\GDS212_Prototype_3\\Plugins\\UXToolsExamples\\Source\\UXToolsExamplesShaders\\UXToolsExamplesShaders.Build.cs",
+		"D:\\Unreal Engine Folder\\Unreal Projects\\GDS212_Prototype_3\\Plugins\\UXToolsExamples\\Source\\UXToolsExamples\\UXToolsExamples.Build.cs",
+		"D:\\Unreal Engine Folder\\Unreal Projects\\GDS212_Prototype_3\\Plugins\\UXTools\\Source\\UXTools\\UXTools.Build.cs",
+		"D:\\Unreal Engine Folder\\Unreal Projects\\GDS212_Prototype_3\\Plugins\\UXTools\\Source\\UXToolsEditor\\UXToolsEditor.Build.cs",
+		"D:\\Unreal Engine Folder\\Unreal Projects\\GDS212_Prototype_3\\Plugins\\UXTools\\Source\\UXToolsInput\\UXToolsInput.Build.cs",
+		"D:\\Unreal Engine Folder\\Unreal Projects\\GDS212_Prototype_3\\Plugins\\UXTools\\Source\\XRSimulation\\XRSimulation.Build.cs",
+		"D:\\Unreal Engine Folder\\Unreal Projects\\GDS212_Prototype_3\\Plugins\\UXTools\\Source\\XRSimulationEditor\\XRSimulationEditor.Build.cs",
+		"D:\\Unreal Engine Folder\\Unreal Projects\\GDS212_Prototype_3\\Plugins\\UXTools\\Source\\XRSimulationInput\\XRSimulationInput.Build.cs",
+		"D:\\Unreal Engine Folder\\Unreal Projects\\GDS212_Prototype_3\\Plugins\\UXTools\\Source\\UXToolsShaders\\UXToolsShaders.Build.cs",
+		"D:\\Unreal Engine Folder\\Unreal Projects\\GDS212_Prototype_3\\Intermediate\\Source\\Prototype_3_GDS212.Build.cs",
+		"D:\\Unreal Engine Folder\\Unreal Projects\\GDS212_Prototype_3\\Intermediate\\Source\\Prototype_3_GDS212.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
